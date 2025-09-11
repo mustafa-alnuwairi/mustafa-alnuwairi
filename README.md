@@ -1,65 +1,66 @@
-# 👋 مرحباً، أنا مصطفى النويريك | Hello, I'm Mustafa Al-Nuwairik
+<!-- Mustafa-AlNuwairik/README.md -->
+<!-- Dark/Light-friendly, no silver, 100% yours -->
 
-🎓 **طريقتي في تكنولوجيا المعلومات | IT Student**  
-📍 **مصر | Egypt**  
-📅 **بدأت الرحلة 2024، وسأتخرج 2028**
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=FiraCode&size=27&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=مرحباً+أنا+مصطفى+النويريك;Hello+I+am+Mustafa+Al-Nuwairik">
+    <img alt="Typing" src="https://readme-typing-svg.herokuapp.com?font=FiraCode&size=27&duration=3000&pause=1000&color=2D46B9&center=true&vCenter=true&width=600&lines=مرحباً+أنا+مصطفى+النويريك;Hello+I+am+Mustafa+Al-Nuwairik">
+  </picture>
+</h1>
 
----
+<p align="center">
+  <em>طالب تكنولوجيا المعلومات • Frontend & IoT Enthusiast • started 2024</em>
+</p>
 
-## 🧠 ما أتعلمه | What I'm Learning
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Mobile:** Flutter  
-- **Backend:** Python, C  
-- **IoT & Embedded:** Arduino, ESP32  
-
----
-
-## 🚀 مشاريعي | My Projects
-| المشروع | الوصف | التكنولوجيا |
-|--------|--------|-------------|
-| [اسم المشروع 1]() | وصف قصير بالعربي والإنجليزي | React + Firebase |
-| [اسم المشروع 2]() | وصف قصير | Flutter + Dart |
-| [اسم المشروع 3]() | وصف قصير | Arduino + C |
-
-&gt; 🔗 **جميع مشاريعي:** [My GitHub Repositories](https://github.com/YOUR_USERNAME?tab=repositories)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mustafa-al-nuwairik" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <!-- لو عايز تويتر/إيميل أضفه هنا -->
+</p>
 
 ---
 
-## 📈 إحصائيات جيت هب | GitHub Stats
-![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+### 🧰 Tech Stack
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-2C3E50?style=flat-square&logo=espressif&logoColor=white)
 
 ---
 
-## 📬 تواصل معي | Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-al-nuwairik)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+### 🔥 GitHub Activity
+<!-- استبدل USERNAME -->
+![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mustafa-AlNuwairik&show_icons=true&theme=radical&hide=issues,contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-AlNuwairik&layout=compact&theme=radical)
 
 ---
 
-## 🎯 أهدافي | My Goals
-- ✅ بناء مشاريع حقيقية أثناء الدراسة  
-- ✅ المساهمة في مشاريع مفتوحة المصدر  
-- ✅ تطوير مهاراتي في Frontend والـ IoT  
-- ✅ الحصول على فرصة تدريب أو عمل جزئي قبل التخرج
+### 📌 Pinned Repos
+(ثبت 6 repos من صفحة GitHub → Customize pins)
 
 ---
 
-## 🧪 أدواتي | My Toolkit
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+### 🎯 2025 Goals
+- [ ] إنهاء 5 مشاريع شخصية  
+- [ ] المساهمة في 10 مشاريع مفتوحة المصدر  
+- [ ] الحصول على internships صيفية  
+- [ ] إتقان TypeScript + Next.js
 
 ---
 
-### 💬 اقتباسي المفضل | My Favorite Quote
-&gt; "ال code اللي ما يُقرأش، ما يُعدّلش."  
-&gt; — مصطفى النويريك
+### 📬 Contact
+<a href="mailto:your.email@example.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-your.email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
 
 ---
 
-⭐ **إذا أعجبك ملفي، لا تنسى تعمل Star لمشاريعي!**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mustafa-AlNuwairik&style=flat-square&color=00C9A7" alt="Profile Views"/>
+</p>
