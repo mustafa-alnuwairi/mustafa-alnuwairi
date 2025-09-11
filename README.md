@@ -1,72 +1,65 @@
-# 👋 أهلاً، أنا مصطفى أحمد عبد التواب النويري | Hey, I'm Mustafa Al Nuwairi
+# 👋 مرحباً، أنا مصطفى النويريك | Hello, I'm Mustafa Al-Nuwairik
 
-<table>
-<tr>
-<td align="right" width="50%">
-
-## 🙋‍♂️ عني (عربي)
-- 🎓 طالب في كلية (أضف التخصص/السنة الدراسية)  
-- 💻 مهتم بـ **البرمجة، تطوير الويب، إنترنت الأشياء، تحليل البيانات**  
-- 🌱 أتعلم حالياً: **C, Python, HTML, CSS, JavaScript, React, Flutter, Arduino, ESP32**  
-- 🛠️ أدوات أستخدمها: **Git, GitHub, Firebase, VS Code**  
-- ⭐ مميزاتي:  
-  - العمل تحت الضغط  
-  - الإبداع وحب التجديد  
-  - سرعة اكتساب المهارات  
-  - سرعة التعلم والتطور  
-
-- 📫 تواصل معي: [LinkedIn](www.linkedin.com/in/mustafa-al-nuwairik)
-
-</td>
-<td align="left" width="50%">
-
-## 🙋‍♂️ About Me (English)
-- 🎓 Student at (add your faculty/academic year)  
-- 💻 Interested in **Programming, Web Development, IoT, Data Analysis**  
-- 🌱 Currently learning: **C, Python, HTML, CSS, JavaScript, React, Flutter, Arduino, ESP32**  
-- 🛠️ Tools I use: **Git, GitHub, Firebase, VS Code**  
-- ⭐ Strengths:  
-  - Work under pressure  
-  - Creativity & innovation  
-  - Fast skill acquisition  
-  - Quick learner & adaptable  
-
-- 📫 Connect with me: [LinkedIn](www.linkedin.com/in/mustafa-al-nuwairik)
-
-</td>
-</tr>
-</table>
+🎓 **طريقتي في تكنولوجيا المعلومات | IT Student**  
+📍 **مصر | Egypt**  
+📅 **بدأت الرحلة 2024، وسأتخرج 2028**
 
 ---
 
-## 🛠️ Skills & Tools | المهارات والأدوات  
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40"/> 
-</p>
+## 🧠 ما أتعلمه | What I'm Learning
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Mobile:** Flutter  
+- **Backend:** Python, C  
+- **IoT & Embedded:** Arduino, ESP32  
 
 ---
 
-## 📊 Github Stats | إحصائيات جيتهاب  
+## 🚀 مشاريعي | My Projects
+| المشروع | الوصف | التكنولوجيا |
+|--------|--------|-------------|
+| [اسم المشروع 1]() | وصف قصير بالعربي والإنجليزي | React + Firebase |
+| [اسم المشروع 2]() | وصف قصير | Flutter + Dart |
+| [اسم المشروع 3]() | وصف قصير | Arduino + C |
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MustafaAlNuwairi&show_icons=true&theme=tokyonight" height="150"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaAlNuwairi&layout=compact&theme=tokyonight" height="150"/> 
-</p>
+&gt; 🔗 **جميع مشاريعي:** [My GitHub Repositories](https://github.com/YOUR_USERNAME?tab=repositories)
 
 ---
 
-## 🚀 My Projects | مشاريعي  
-- 🌐 [Project 1](#) – وصف قصير للمشروع (عربي/English)  
-- 📱 [Project 2](#) – وصف قصير للمشروع  
-- 📊 [Project 3](#) – وصف قصير للمشروع  
+## 📈 إحصائيات جيت هب | GitHub Stats
+![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 📬 تواصل معي | Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-al-nuwairik)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+---
+
+## 🎯 أهدافي | My Goals
+- ✅ بناء مشاريع حقيقية أثناء الدراسة  
+- ✅ المساهمة في مشاريع مفتوحة المصدر  
+- ✅ تطوير مهاراتي في Frontend والـ IoT  
+- ✅ الحصول على فرصة تدريب أو عمل جزئي قبل التخرج
+
+---
+
+## 🧪 أدواتي | My Toolkit
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+
+---
+
+### 💬 اقتباسي المفضل | My Favorite Quote
+&gt; "ال code اللي ما يُقرأش، ما يُعدّلش."  
+&gt; — مصطفى النويريك
+
+---
+
+⭐ **إذا أعجبك ملفي، لا تنسى تعمل Star لمشاريعي!**
