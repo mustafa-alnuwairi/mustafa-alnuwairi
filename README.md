@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=FiraCode&size=27&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=مرحباً+أنا+مصطفى+النويريك;Hello+I+am+Mustafa+Al-Nuwairik">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=FiraCode&size=27&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=مرحباً+أنا+مصطفى+النويري;Hello+I+am+Mustafa+Al-Nuwairik">
     <img alt="Typing" src="https://readme-typing-svg.herokuapp.com?font=FiraCode&size=27&duration=3000&pause=1000&color=2D46B9&center=true&vCenter=true&width=600&lines=مرحباً+أنا+مصطفى+النويريك;Hello+I+am+Mustafa+Al-Nuwairik">
   </picture>
 </h1>
